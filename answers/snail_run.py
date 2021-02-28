@@ -3,6 +3,7 @@
 Invite: https://dsc.gg/python_team
 19 Feb 2021
 @alexandros answer to @CelestialTitania
+https://discord.com/channels/794684213697052712/794684213697052718/812392491881988146
 Snailrun
 '''
 
