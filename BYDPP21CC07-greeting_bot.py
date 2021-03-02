@@ -10,6 +10,9 @@ Task
 Create a basic Discord Bot that replies to a user greeting
 in a specific server and channel.
 
+Installation Required
+> discord package
+
 Python Code
 As below, being non-optimised, as in the call with minor edits.
 '''
