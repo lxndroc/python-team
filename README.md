@@ -11,5 +11,6 @@ Team Invite: https://dsc.gg/python_team.
  <li>4-5. <a href="https://github.com/lxndroc/python-team/blob/main/BYDPP21CC04_05-PS_Bot.py">PS_Bot</a> - BYDPP21CC04-05</li>
  <li>6. <a href="https://github.com/lxndroc/python-team/blob/main/BYDPP21CC06-ticket_allocator.py">Ticket Allocator</a> - BYDPP21CC06</li>
  <li>7. <a href="https://github.com/lxndroc/python-team/blob/main/BYDPP21CC07-greeting_bot.py">Discord Greeting Bot</a> - BYDPP21CC07</li>
- <li>8. <a href="https://github.com/lxndroc/python-team/blob/main/BYDPP21CC08-expenses_pie.py">Expenses Pie Generator</a> - BYDPP21CC08</li> 
+ <li>8-10. <a href="https://github.com/lxndroc/python-team/blob/main/BYDPP21CC08_10-expenses_pie.py">Expenses Pie Generator</a> - BYDPP21CC08-10</li>
+ <li>9. <a href="https://github.com/lxndroc/python-team/blob/main/BYDPP21CC09-gold_medal.py">Gold Medal Game</a> - BYDPP21CC09</li>
 </ul>
